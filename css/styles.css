@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.deadpool-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-img {
+  width: 15%;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #a6dcef;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 550px;
+  bottom: 300px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 550px;
+  top: 75px;
+}
