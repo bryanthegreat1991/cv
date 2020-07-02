@@ -39,11 +39,11 @@ p {
 a {
     margin: 0 50px;
     text-decoration: none;
-    color: #66BFBF;
+    color: #4f8a8b;
 }
 
 a:hover {
-    color: #40514E;
+    color: #EAF6F6;
 }
 
 .top-container {
@@ -119,6 +119,11 @@ a:hover {
     display: block;
     width: 10%;
     margin: 25px auto;
+    color: #66BFBF;
+}
+
+.button:hover {
+    color: #4f8a8b;
 }
 
 .copy-right {
